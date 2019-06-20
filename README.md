@@ -15,7 +15,7 @@ RabbitMQ实战篇
 
 	4. RabbitMQ实战篇：Direct - 直连交换机
 	
-		
+		https://blog.csdn.net/LOVELONG8808/article/details/93028273
 
 	5. RabbitMQ实战篇：Fanout - 扇形交换机
 	
