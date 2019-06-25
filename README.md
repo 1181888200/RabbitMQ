@@ -19,7 +19,7 @@ RabbitMQ实战篇
 
 	5. RabbitMQ实战篇：Fanout - 扇形交换机
 	
-		
+		https://blog.csdn.net/LOVELONG8808/article/details/93599158
 
 	6. RabbitMQ实战篇：Topic - 主题交换机
 	
