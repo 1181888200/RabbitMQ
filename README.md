@@ -27,7 +27,7 @@ RabbitMQ实战篇
 
 	7. RabbitMQ实战篇：Header - 头部交换机
 	
-		
+		https://blog.csdn.net/LOVELONG8808/article/details/93987736
 
 	8. RabbitMQ实战篇：消息确认之生产者确认
 	
