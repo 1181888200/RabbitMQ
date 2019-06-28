@@ -23,7 +23,7 @@ RabbitMQ实战篇
 
 	6. RabbitMQ实战篇：Topic - 主题交换机
 	
-		
+		https://blog.csdn.net/LOVELONG8808/article/details/93969061
 
 	7. RabbitMQ实战篇：Header - 头部交换机
 	
