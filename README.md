@@ -31,7 +31,7 @@ RabbitMQ实战篇
 
 	8. RabbitMQ实战篇：消息确认之生产者确认
 	
-		
+		https://blog.csdn.net/LOVELONG8808/article/details/93998619
 
 	9. RabbitMQ实战篇：消息确认之消费者局部确认
 	
