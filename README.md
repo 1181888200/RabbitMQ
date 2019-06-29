@@ -39,7 +39,7 @@ RabbitMQ实战篇
 
 	10. RabbitMQ实战篇：消息确认之消费者全局确认
 	
-		
+		https://blog.csdn.net/LOVELONG8808/article/details/94130668
 
 	11. RabbitMQ实战篇：持久化
 	
